@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MyApi" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/primary_light</item>
+    </style>
+
+    <style name="Theme.MyApi" parent="Base.Theme.MyApi" />
+</resources>
